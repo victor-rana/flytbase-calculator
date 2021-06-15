@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609998329869",
+    "project_id": "flytbase-calculator",
+    "storage_bucket": "flytbase-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609998329869:android:97fb9729729e5c2b8f9d44",
+        "android_client_info": {
+          "package_name": "com.calculator.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609998329869-n3sf6odqra1o8jcbi2mic7m1f6sv79ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlJtAQRcu1cAWOxHapHlq3ctknUtgQ-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609998329869-n3sf6odqra1o8jcbi2mic7m1f6sv79ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
